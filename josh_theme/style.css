@@ -1,0 +1,32 @@
+.herobg{
+  background-color:rgb(137, 5, 244);
+height:700px;
+}
+
+.maincontainer{
+    background-color:darkmagenta;
+height:700px;
+}
+
+.maintext{
+  background-color:#78f6eb;
+height:660px;
+}
+
+.sidebar{
+background-color:#4ddb19;
+height:660px;  
+}
+
+.footerbg{
+    background-color:#bb96f7;
+    height: 150px;
+}
+
+.leftfoot{
+    background-color:#47e736;
+}
+
+.rightfoot{
+    background-color:#624f96;
+}
